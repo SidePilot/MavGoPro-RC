@@ -4,6 +4,8 @@
 
 The MAVLink GoPro Remote Control (MavGoPro_RC) allows you to remotely control a GoPro HERO camera using MAVLink commands, such as those sent from a ground control station (GCS) or autopilot system like ArduPilot or PX4. This system is designed for integration with drones or robotic platforms, enabling automation and remote control of GoPro cameras for aerial photography, inspections, and more.
 
+You can purchase the hardware at the [SidePilot Store](https://store.sidepilot.net), or build your own!
+
 ## Features
 
 - Supports GoPro HERO 5/6/7/8/9/10 Black cameras via BLE (10+ have not been tested but should work)
